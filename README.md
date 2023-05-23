@@ -1,6 +1,6 @@
 # Employee-Review-System
 A full stack, app used for reviewing employee.
-Hoisted Link :
+Hoisted Link :  https://employee-review-d.onrender.com/
 
 
 ### Description
@@ -33,21 +33,6 @@ After reaching the project directory you have to run the following the command.
   You can review the employees. The admin has the special power to assing, the task to employee, remove the employee, add new admin, and also employee;
   
   
-  # HomePage / Admin View
-
-  # Home page / Employee view
-
-  
-  # Sign-Up
-
-
-  # Sign-In
-
-  # Forget Password
-  
-  # Assign Task
-
-  # Employee List
   
 
   
