@@ -9,6 +9,7 @@ Hoisted Link :  https://employee-review-d.onrender.com/
 A full stack app, in which the admin, can assign the employees, to review each other on the basic of there work. The admin has special power, to make any other employee
 as the new admin. Admin can also make the new employee, and they can also assing, the reviewer and revieweee. The admin can see the current employee, and according to the
 review, the admin can remove the employee. The review given to the employee, is always going to be store in the database.
+If you want to be admin password is " happy ".
 
 
 ### Tech Stack
